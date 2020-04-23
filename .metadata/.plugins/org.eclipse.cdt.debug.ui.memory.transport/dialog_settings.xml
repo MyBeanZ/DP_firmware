@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="IMPORT_DIALOG">
+		<item value="0x2001ff00" key="Start"/>
+		<item value="0x2001ff00" key="Initial address"/>
+	</section>
+	<section name="EXPORT_DIALOG">
+		<item value="0x2001fef0" key="Start"/>
+		<item value="0x2001ff30" key="End"/>
+		<item value="C:\Users\HDQTony\Desktop\text.txt" key="File"/>
+		<item value="PlainTextExporter" key="SELECTED_EXPORTER"/>
+		<item value="0x2001fef0" key="Initial address"/>
+	</section>
+</section>
