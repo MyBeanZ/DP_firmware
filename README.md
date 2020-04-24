@@ -1,2 +1,2 @@
 # DP_firmware
-firmware part of my diploma thesis
+firmware part to my diploma thesis
